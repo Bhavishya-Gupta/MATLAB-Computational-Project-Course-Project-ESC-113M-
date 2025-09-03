@@ -164,9 +164,7 @@ This project is released under the MIT License. See [LICENSE](LICENSE) for detai
 <p align="center">
   <strong>🔢 ESC-113M: Computational Methods for Engineers 🔢</strong>
 </p>
-<span style="display:none">[^1]</span>
 
-<div style="text-align: center">⁂</div>
 
 [^1]: https://github.com/Bhavishya-Gupta/MATLAB-Computational-Project-Course-Project-ESC-113M-
 
