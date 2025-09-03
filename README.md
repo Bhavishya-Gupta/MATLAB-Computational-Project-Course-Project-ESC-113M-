@@ -1,6 +1,6 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" style="height:64px;margin-right:32px"/>
 
-# Enhanced README for MATLAB Computational Project (ESC-113M)
+
+# README for MATLAB Computational Project (ESC-113M)
 
 <p align="center">
   <img src="https://img.shields.io/badge/MATLAB-F9931E?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB"/>
