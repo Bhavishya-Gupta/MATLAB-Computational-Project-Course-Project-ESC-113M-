@@ -1,6 +1,6 @@
 
 
-# README for MATLAB Computational Project (ESC-113M)
+# MATLAB Computational Project (ESC-113M)
 
 <p align="center">
   <img src="https://img.shields.io/badge/MATLAB-F9931E?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB"/>
